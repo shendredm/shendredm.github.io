@@ -29,8 +29,8 @@ Getting started with my work
 To explore more about my projects and publications:
 
 - Visit the [Publications](/publications/) section for technical papers and conference submissions  
-- See the [Talks](/talks/) page for invited presentations  
-- Explore [Teaching](/teaching/) or [Portfolio](/portfolio/) for hands-on content  
-- Download my full [CV](/files/resume.pdf)  
+- See the [Projects](/projects/) for hands-on  
+- My full [CV](/cv/)  
+- Watch demos and tutorials on my [YouTube channel](https://www.youtube.com/@learnsite1113)  
 
 I'm actively looking to contribute to interdisciplinary research in robotics control and intelligence, and collaborate with researchers and engineers globally.

@@ -25,14 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Dhananjay Shendre"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Robotics engineer focused on embodied AI, reinforcement learning, and cloud-integrated robotic systems."
   location         : "India"
   employer         : #"Parth Infotech"
   uri              : # URL
   email            : "shendre.dhananjay@outlook.com"
-
-  #Job Sites
-  linkedin         : "shendredm"  # Username
 
   # Academic websites
   academia         : # URL
@@ -66,6 +63,7 @@ author:
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
+  linkedin         : "shendredm"  # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
