@@ -11,54 +11,59 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.Tech. in Robotics and Artificial Intelligence**  
+  COEP Technological University, Pune — *2024*  
+  GPA: 8.02
 
-Work experience
+* **B.E. in Electrical Engineering**  
+  Savitribai Phule Pune University, Pune — *2020*  
+  GPA: 7.74
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Robotics Systems Engineer (Deputed to DRDO)**  
+  Parth Infotech Ltd., Pune — *July 2024 – Present*  
+  - Contracted at **Centre for Systems and Technologies for Advanced Robotics (C-STAR), R&DE(E), DRDO Pune**  
+  - Developed RL policies in Isaac Sim for agile locomotion in legged robots  
+  - Integrated SLAM and vision systems using ROS2  
+  - Validated and deployed motion policies on physical robots  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Intern**  
+  R & DE (Engrs.), DRDO, Pune — *Sept 2023 – July 2024*  
+  - Simulated and analyzed series elastic actuators using MATLAB/Simulink  
+  - Conducted comparative studies to evaluate actuator performance  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Assistant Systems Engineer**  
+  Tata Consultancy Services Ltd., Pune — *Feb 2022 – Aug 2023*  
+  - Optimized SQL queries, enhancing performance and reducing execution time  
+  - Used Apache Airflow to fix DAG bottlenecks and increase job reliability  
+  - Worked on data workflows with Google Cloud (BigQuery, Data Studio)  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Robotics & AI**  
+  Isaac Sim, ROS2, SLAM, RL-based control, MATLAB/Simulink  
+
+* **Programming & Data**  
+  Python, SQL, C, C++, Pandas, Numpy, Matplotlib  
+
+* **Cloud & Workflow**  
+  Google Cloud Platform, Apache Airflow, Tableau, Git  
+
+Certifications
+======
+* Google Cloud Certified Associate Cloud Engineer (2023–2026)  
+* NPTEL: Data Analytics with Python  
+* NPTEL: Machine Learning for Engineering and Science Applications  
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+<!-- Service and Leadership
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Contracted at C-STAR Lab, DRDO for advanced robotics deployment  
+* Managed robotic system integration between private and defense research sectors  
+* Contributed to robust and scalable data systems in production environments   -->
