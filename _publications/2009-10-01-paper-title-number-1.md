@@ -9,5 +9,6 @@ venue: 'International Research Journal of Engineering and Technology (IRJET)'
 paperurl: 'https://www.irjet.net/archives/V7/i5/IRJET-V7I5391.pdf'
 citation: 'Shendre, D., Mohan, I., Shingade, S., & Thakare, K. (2020). "Power Generation Using Noise Pollution." <i>IRJET</i>, 7(5), 2101-2105.'
 ---
-We investigated a novel method of energy harvesting by converting environmental noise — typically considered waste — into usable electrical energy. Our system utilizes piezoelectric materials and a reversed speaker (diaphragm-coil mechanism) to capture vibrations from ambient sound and convert them into electrical output. The project includes a detailed prototype comprising a magnet-coil assembly, supercapacitor for smoothing the output, and an inverter for AC conversion.
+We investigated a novel method of energy harvesting by converting environmental noise — typically considered waste — into usable electrical energy. Our system utilizes piezoelectric materials and a reversed speaker (diaphragm-coil mechanism) to capture vibrations from ambient sound and convert them into electrical output. The project includes a detailed prototype comprising a magnet-coil assembly, supercapacitor for smoothing the output, and an inverter for AC conversion.+
+
 Designed especially for noisy urban environments like traffic intersections and railway stations, the device demonstrates how **pollution itself can be a power source**. This work contributes to the growing field of sustainable, unconventional energy solutions.
