@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Simulink Exploration of Design and Control Techniques for BLDC-Driven Compliant Actuators in Legged Robotics"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024-11-01-bldc-compliant-legged
+excerpt: 'This paper presents a Simulink-based analysis of BLDC motor-driven compliant actuators for legged robots, examining design parameters and PI-based control strategies for precision and stability.'
+date: 2024-11-01
+venue: 'CISCON 2024 – IEEE International Conference on Intelligent Systems and Control'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10696683'  # Add PDF link here if hosted online
+citation: 'Dhananjay Shendre, Vinodini Bhole, Sunil Ghunage. (2024). "Simulink Exploration of Design and Control Techniques for BLDC-Driven Compliant Actuators in Legged Robotics." In <i>CISCON 2024 – IEEE International Conference on Intelligent Systems and Control</i>.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This research investigates the modeling and control of **Series Elastic Actuators (SEAs)** driven by **Brushless DC (BLDC)** motors using Simulink. These actuators, known for their adaptability and safety in human-robot interaction, were analyzed through a dynamic simulation framework.
+The study develops a comprehensive electromechanical model, incorporating six-step trapezoidal commutation with Hall sensors for rotor position detection. Control strategies — including **PI-based speed and position control** — were implemented and evaluated to assess their impact on performance metrics such as response time, torque behavior, and energy efficiency.
+Additionally, the simulation explores how different spring stiffness levels influence **position accuracy** and load dynamics. Results show that while high stiffness improves tracking precision, increased compliance leads to larger positional errors — an important consideration for robotic applications like prosthetics, exoskeletons, and legged mobility.
+This work provides a reproducible method for analyzing compliant actuation and guides the design of energy-efficient, BLDC-powered systems in real-world robotic platforms.
