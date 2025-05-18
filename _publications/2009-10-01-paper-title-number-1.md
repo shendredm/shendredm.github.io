@@ -1,7 +1,7 @@
 ---
 title: "Power Generation Using Noise Pollution"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2020-05-01-noise-energy
 excerpt: 'This paper presents a method for converting environmental noise into electricity using piezoelectric and diaphragm-coil mechanisms. Aimed at utilizing noise pollution as a renewable energy source, the work explores prototype design, energy harvesting principles, and potential real-world use cases.'
 date: 2020-05-01

@@ -1,7 +1,7 @@
 ---
 title: "Simulink Exploration of Design and Control Techniques for BLDC-Driven Compliant Actuators in Legged Robotics"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-11-01-bldc-compliant-legged
 excerpt: 'This paper presents a Simulink-based analysis of BLDC motor-driven compliant actuators for legged robots, examining design parameters and PI-based control strategies for precision and stability.'
 date: 2024-11-01
